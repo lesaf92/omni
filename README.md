@@ -1,6 +1,8 @@
-# OMNI: Omnidirectional Motion when Navigating Indoors 
+# OMNI: Omnidirectional Motion for Navigation Indoors 
 
 Code for the OMNI robot
+
+<img src='assets/omni_v1.jpeg' width='150'>
 
 ## Hardware
 - Intel Realsense D435i depth camera
